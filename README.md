@@ -6,9 +6,9 @@ I'm a Software Engineer and an Enterpreneur. I'm passionate about sharing knowle
 
 - 😊 Pronouns: He/him
 - 💡 Fun fact: I studied backend engineering at AltSchool Africa [School of Software Engineering](https://altschoolafrica.com/schools/engineering) Class of 2022.
-- 🌱 I build projects using Javascript and I am learning more technologies to become world class.
+- 🌱 I build projects using Javascript and Typescript. Some of my favorite tools are: NestJs, NextJs, React, Prisma, PostgresDB, MySQL, Docker, K8s and more.
 - 😊 I’m happy to contribute to open source projects, hackathons.
-- 💼 Job interests: Fullstack Engineer, Frontend Engineer, or Backend Engineer.
+- 💼 Job interests: Fullstack Developer, Frontend Developer, or Backend Developer.
 - 📫 You can [view my resume](#) and contact me by <a href="mailto:ayopedro2012@gmail.com">sending me an email</a>.
 
 ---
