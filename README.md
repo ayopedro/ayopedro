@@ -13,5 +13,16 @@ I'm a Software Engineer and an Enterpreneur. I'm passionate about sharing knowle
 
 ---
 
-| <img align="center" src="https://github-readme-stats.vercel.app/api?username=ayopedro&show_icons=true&include_all_commits=true&hide_border=true" alt="Ayotunde's GitHub stats" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayopedro&langs_count=8&layout=compact&hide_border=true" alt="Ayotunde's GitHub stats" /> |
-| ------------- | ------------- |
+<div>
+  
+  <p align="center">
+  <b><em>Overall GitHub Stats:</em></b> <br/>
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=ayopedro" alt="GitHub Stats" /> <br/><br/>
+</p>
+  <div align="center">
+  
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ayopedro&hide=shell&langs_count=8&show_icons=true)](https://github.com/ayopedro/github-readme-stats)
+
+</div>
+
+</div>
