@@ -7,15 +7,15 @@
   <p>😊 Pronouns: He/Him</p>
 	<p>🌱 Currently exploring Go alongside my expertise in JavaScript and TypeScript.</p>
 	<p>⚙️ Favorite tools & frameworks:</p>
-  <ul>
+  <ul style="list-style-type: none;">
   	<li>
-      <strong>Backend</strong>: ExpressJs, NestJS, Prisma, PostgreSQL, MySQL, MongoDb
+      <strong>🔐 Backend</strong>: ExpressJs, NestJS, Prisma, PostgreSQL, MySQL, MongoDb
     </li>
   	<li>
-      <strong>Frontend</strong>: React, Next.js
+      <strong>🖼️ Frontend</strong>: React, Next.js
     </li>
   	<li>
-      <strong>DevOps</strong>: Docker, Kubernetes, AWS, GCP
+      <strong>☁️ DevOps</strong>: Docker, Kubernetes, AWS, GCP
     </li>
   </ul>
 	<p>💡 I enjoy contributing to open source projects.</p>
@@ -26,22 +26,18 @@
 <table>
   <tr>
     <td>
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=ayopedro" alt="GitHub Streak Stats" />
+    </td>
+    <td>
       <a href="https://www.github.com/ayopedro">  
         <img src="https://api.vaunt.dev/v1/github/entities/ayopedro/contributions?format=svg&private=true" width="350" title="Includes public and private contributions" />  
       </a> 
     </td>
     <td>
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=ayopedro" alt="GitHub Streak Stats" />
-    </td>
+		<img src="https://github-readme-stats.vercel.app/api/top-langs?username=ayopedro&hide=shell&langs_count=8&layout=compact&show_icons=true" alt="ayopedro" />
+	</td>
   </tr>
 </table>
-<table>
-  <tr>
-    <td>
-      [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ayopedro&hide=shell&langs_count=8&layout=compact&show_icons=true)](https://github.com/ayopedro/github-readme-stats)
-    </td>
-  </tr>
-</table> 
 
 
 ## 🌍 Let’s Connect
