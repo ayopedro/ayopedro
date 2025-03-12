@@ -9,13 +9,16 @@
 	<p>⚙️ Favorite tools & frameworks:</p>
   <ul style="list-style-type: none;">
   	<li>
-      <strong>🔐 Backend</strong>: ExpressJs, NestJS, Prisma, PostgreSQL, MySQL, MongoDb
+      <strong>🔐 Backend</strong>: ExpressJs, NestJS, Go 
     </li>
   	<li>
-      <strong>🖼️ Frontend</strong>: React, Next.js
+      <strong>🖼️ Frontend</strong>: React, Next.js, Angular (in-view)
     </li>
   	<li>
       <strong>☁️ DevOps</strong>: Docker, Kubernetes, AWS, GCP
+    </li>
+	  <li>
+      <strong>🛢️ Databases</strong>: PostgreSQL, MySQL, MongoDb
     </li>
   </ul>
 	<p>💡 I enjoy contributing to open source projects.</p>
