@@ -12,7 +12,7 @@
       <strong>🔐 Backend</strong>: ExpressJs, NestJS, Go 
     </li>
   	<li>
-      <strong>🖼️ Frontend</strong>: React, Next.js, Angular (in-view)
+      <strong>🖼️ Frontend</strong>: React, Next.js, Angular
     </li>
   	<li>
       <strong>☁️ DevOps</strong>: Docker, Kubernetes, AWS, GCP
