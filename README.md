@@ -1,8 +1,8 @@
 ## Hey, Hey! 🎉 Welcome! 👋
 
-<p>Welcome to my corner of GitHub! I'm <strong>Ayotunde Pedro</strong>—aka your friendly neighborhood <em>Software Developer</em> 🕸️, passionate about web wizardry 🖥✨, epic documentation 📝, and sprinkle-my-knowledge-everywhere vibes. 🚀</p>
+<p>Welcome to my corner of GitHub! I'm <strong>Ayo</strong>—aka your friendly neighborhood <em>Software Developer</em> 🕸️, passionate about the web 🖥✨, epic documentation 📝, and sprinkle-my-knowledge-everywhere vibes. 🚀</p>
 
-<p>Got a question about web development? I'm your go-to guy for geek-chats, code battles, or just sharing awesome ideas. Let's talk tech! 💬</p>
+<p>Got a question about web development? I'm your guy to just sharing awesome ideas. Let's talk tech! 💬</p>
 
 ---
 
