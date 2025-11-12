@@ -1,31 +1,32 @@
-## Hi there! 👋
+## Hey, Hey! 🎉 Welcome! 👋
 
-<p>I’m Ayotunde Pedro, a <strong>Software Developer</strong> passionate about web engineering, documentation, and sharing knowledge.</p>
-<p>I love talking about web development in any capacity where I’m needed</p>
+<p>Welcome to my corner of GitHub! I'm <strong>Ayotunde Pedro</strong>—aka your friendly neighborhood <em>Software Developer</em> 🕸️, passionate about web wizardry 🖥✨, epic documentation 📝, and sprinkle-my-knowledge-everywhere vibes. 🚀</p>
 
-## 🚀 About Me
-  <p>😊 Pronouns: He/Him</p>
-	<p>🌱 Currently exploring Go alongside my expertise in JavaScript and TypeScript.</p>
-	<p>⚙️ Favorite tools & frameworks:</p>
-  <ul style="list-style-type: none;">
-  	<li>
-      <strong>🔐 Backend</strong>: ExpressJs, NestJS, Go 
-    </li>
-  	<li>
-      <strong>🖼️ Frontend</strong>: React, Next.js, Angular
-    </li>
-  	<li>
-      <strong>☁️ DevOps</strong>: Docker, Kubernetes, AWS, GCP
-    </li>
-	  <li>
-      <strong>🛢️ Databases</strong>: PostgreSQL, MySQL, MongoDb
-    </li>
+<p>Got a question about web development? I'm your go-to guy for geek-chats, code battles, or just sharing awesome ideas. Let's talk tech! 💬</p>
+
+---
+
+## 🚀 "Who dis guy?" About Me 
+<ul>
+<li>😊 <strong>Pronouns:</strong> He/Him (But you can call me "Ace of Webspaces") 🃏</li>
+<li>🌱 Currently plotting to conquer Go while flexing my JavaScript and TypeScript muscles. 💪</li>
+<li>⚙️ Favorite tools & frameworks? I’m glad you asked:
+  <ul>
+    <li>🔐 <strong>Backend:</strong> ExpressJs, NestJS, Go</li>
+    <li>🖼️ <strong>Frontend:</strong> React, Next.js, Angular</li>
+    <li>☁️ <strong>DevOps:</strong> Docker, Kubernetes, AWS, GCP</li>
+    <li>🛢️ <strong>Databases:</strong> PostgreSQL, MySQL, MongoDb</li>
   </ul>
-	<p>💡 I enjoy contributing to open source projects.</p>
-	<p>💼 Open to opportunities as a Backend Developer, Frontend Developer or Fullstack Developer.</p>
-	<p>📫 Send me an <a href="mailto:ayopedro2012@gmail.com">email</a>.</p>
+</li>
+<li>💡 Thrives in the open-source universe 🌌. Let’s collab and make magic happen!</li>
+<li>💼 Open to ventures as a Backend, Frontend, or Fullstack Developer. (In plain terms: Let’s get this bread 🥖).</li>
+<li>📫 Slide into my inbox with an <a href="mailto:ayopedro2012@gmail.com">email</a>. No spam, pls. 😂</li>
+</ul>
 
-## 🌟 GitHub Highlights
+---
+
+## 🌟 GitHub Goodies
+
 <table>
   <tr>
     <td>
@@ -37,11 +38,15 @@
       </a> 
     </td>
     <td>
-		<img src="https://github-readme-stats.vercel.app/api/top-langs?username=ayopedro&hide=shell&langs_count=8&layout=compact&show_icons=true" alt="ayopedro" />
-	</td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ayopedro&hide=shell&langs_count=8&layout=compact&show_icons=true" alt="ayopedro" />
+    </td>
   </tr>
 </table>
 
+---
 
-## 🌍 Let’s Connect
-[![Linkedin Badge](https://img.shields.io/badge/-ayotundepedro-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ayotundepedro)](https://www.linkedin.com/in/ayotundepedro) [![X Badge](https://img.shields.io/badge/-@_ayopedro-000000?style=for-the-badge&logo=x&logoColor=white&link=https://x.com/_ayopedro)](https://x.com/_ayopedro) [![Instagram Badge](https://img.shields.io/badge/-@_ayopedro-c13584?style=for-the-badge&logo=instagram&logoColor=white&link=https://instagram.com/_ayopedro)](https://instagram.com/_ayopedro)
+## 🌍 Let’s Link Up
+
+[![Linkedin Badge](https://img.shields.io/badge/-ayotundepedro-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ayotundepedro)](https://www.linkedin.com/in/ayotundepedro)
+
+<p>Catch you in the dev-verse! 🚀</p>
